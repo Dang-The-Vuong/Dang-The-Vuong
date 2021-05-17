@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  I am currently learning Computer Science and Cybersecurity. Studying both is hard since focusing on one is so much easier. I love Linux; it is one of the best OS that is open-source and free. I might plan to do some projects in the future. My goal right now is to learn. I am also into privacy, also why I don't have a lot of social media.
+  I am currently learning Computer Science and Cybersecurity. Studying both is hard since focusing on one is so much easier. I love Linux; it is one of the best types of OS that is open-source and free. I might plan to do some projects in the future. My goal right now is to learn. I am also into privacy, also why I don't have a lot of social media.
 
 ⚡ Fun fact about me:
   - I am a supporter of Edward Snowden. I believe the Internet should be free and private.
