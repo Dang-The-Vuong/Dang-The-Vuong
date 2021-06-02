@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact about me:
   - I am a supporter of Edward Snowden. I believe the Internet should be free and private. I disagree with surveillance, not that I have something to hide but that privacy should be a right for everyone.
+
+  I also have another github account mainly for school: @dangvuonglcps
